@@ -66,6 +66,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+ {
+    titre: "Restez concentrés",
+    categorie: "Etudes",
+    texte: "il faut etre concentrés tout au long de la séance pour gagner du temps a la maison",
+    auteur: "Firas taga"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
