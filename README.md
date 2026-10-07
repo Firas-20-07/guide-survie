@@ -45,6 +45,18 @@ Ajoutez votre ligne à la fin de cette liste, en respectant le format.
 ```
 
 \---
+## Ce qu'il reste à faire
+
+- [x] Mettre le projet en ligne
+- [ ] Ajouter mes fiches
+- [ ] Personnaliser les couleurs
+- [ ] Déployer le site
+
+## Liens utiles
+
+- [Le site des TP](https://VOTRECOMPTE.github.io/git-tp-dauphine/)
+- [La documentation de Git](https://git-scm.com/doc)
+
 
 ## En cas de problème
 
